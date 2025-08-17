@@ -66,7 +66,7 @@ pip install torch transformers pandas matplotlib seaborn jupyter
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/LOAI-TK/Sentimental-Analysis.git
 
    cd your-repo
 
