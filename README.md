@@ -1,3 +1,7 @@
+# Sentimental analysis using HF-Bert and Gemini LLM
+
+---
+
 # Sentiment Analysis with BERT
 
 This repository contains an exploratory workflow for performing sentiment analysis on text reviews using Hugging Face's BERT-based multilingual model. The project is structured as a Jupyter Notebook and demonstrates data cleaning, model inference, and insights generation.
@@ -62,18 +66,19 @@ pip install torch transformers pandas matplotlib seaborn jupyter
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+   git clone https://github.com/yourusername/your-repo.git
 
-2. Install the requirements:
+   cd your-repo
+
+3. Install the requirements:
 
     pip install -r requirements.txt
 
     Launch Jupyter Notebook:
 
-3. jupyter notebook
+4. jupyter notebook
 
-4. Open Exploratory+HF(NlpBertModel)+sentimentInsights.ipynb and run all cells sequentially.
+5. Open Exploratory+HF(NlpBertModel)+sentimentInsights.ipynb and run all cells sequentially.
 
 ---
 
@@ -120,3 +125,69 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your feature or bugfix.
 
 3. Submit a pull request describing your changes.
+
+
+---
+
+---
+
+# Gemini LLM Extension
+
+This notebooks (Multilingual Customer Feedback Intelligence System.ipynb) and (GeminiVsHF-NLBBert.ipynb) continues the project by applying Google Gemini 2.5 Flash for multilingual customer feedback analysis. Unlike the Hugging Face workflow, this extension goes beyond sentiment and extracts structured insights:
+
+- Final Sentiment (3-class): Negative, Neutral, Positive.
+
+- Sarcasm Detection: Yes / No.
+
+- Suggestions: Identifies whether the user proposes improvements, with type (Complaint, Feature Request, Operational Improvement, Other).
+
+- Suggestion Text: A concise summary of the suggestion (if any).
+
+- Emotion Classification: joy, frustration, anger, gratitude, disappointment, worry, etc.
+
+- Tone Analysis: enthusiastic, professional, urgent, frustrated, disappointed, sarcastic, etc.
+
+- Urgency Flag: Marks urgent feedback (based on language and tone cues).
+
+- Impact Level: Low / Medium / High.
+
+- Responsible Party: Suggests which team (delivery, customer service, billing, technical support, etc.) is responsible.
+
+- Action Flag: Indicates if the feedback requires operational follow-up.
+
+# API Setup
+
+This notebook requires Google Gemini API keys. Add them to a .env file in the format:
+
+    GEMINI_KEY_1=your_api_key_here
+
+    GEMINI_KEY_2=your_api_key_here
+
+    ... up to GEMINI_KEY_9 if you rotate keys
+
+- The notebook will automatically rotate through keys when processing large datasets.
+
+- Comparison with Hugging Face
+
+- Both Hugging Face BERT and Gemini LLM provide 3-class sentiment classification.
+
+- Gemini adds richer contextual insights (tone, emotion, sarcasm, urgency, etc.).
+
+- This enables a more actionable intelligence system for businesses handling multilingual feedback.
+
+# Results
+
+- Structured JSON outputs per review with multiple dimensions (sentiment + metadata) and csv file.
+
+- Enhanced dashboards possible by combining Hugging Face’s statistical reliability with Gemini’s contextual depth.
+
+
+# Gemini vs Hugging Face Comparison
+
+The notebook GeminiVsHF-NLBBert.ipynb directly compares both approaches side-by-side:
+
+<p align="center">
+<img width="682" height="521" alt="image" src="https://github.com/user-attachments/assets/59608aae-f4a3-4567-be74-98951c1d9249" />
+</p>
+
+This comparison allows users to decide whether to prioritize efficiency & reproducibility (HF) or context-rich analysis (Gemini) depending on their business needs.
