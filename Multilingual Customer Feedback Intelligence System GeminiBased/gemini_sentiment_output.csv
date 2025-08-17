@@ -1,0 +1,501 @@
+﻿CLEAN_ANSWER,LANGUAGE,EMOJIS,final_sentiment,sarcasm,suggestion,suggestion_text,suggestion_type,emotion,tone,urgency_flag,impact_level,responsible_party,action_flag
+التعاقد مع شركه ذات جوده ومعروفه وقويه في السوق ل احترام العميل ووقت العميل,ar,,Negative,No,Yes,Suggests contracting with a high-quality and reputable company to ensure customer and time respect.,Operational Improvement,disappointment,polite,Yes,High,management,Yes
+اقترح في موضوع النوصيل المنزلي أن تتعاونوا مع شركات نقل جيدة وليست فوضوية تتعامل مع صندوق المنتج وكأنه كيس ملابس,ar,,Negative,No,Yes,Suggests collaborating with better delivery companies to prevent mishandling of products.,Operational Improvement,frustration,frustrated,No,High,delivery team,Yes
+إعطاء ثقة تامه إذا رغب العميل باخد خدمة الصيانة من اكسترا بان اكسترا ستقوم بالصيانة التامة بدون اعذار,ar,,Positive,No,Yes,Extra should provide complete and reliable maintenance service without excuses to build customer trust.,Operational Improvement,worry,professional,No,Medium,technical support,Yes
+شكرا جزيلا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+Availability  of stock,en,,Negative,No,No,None,None,disappointment,disappointed,Yes,High,management,Yes
+IT personnel he is accomodating,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,technical support,No
+Your immediate delivery and your customer service.,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,customer service,No
+Thank,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+base from my experience.. there should a choices for the timing of the delivery,en,,Neutral,No,Yes,Option to choose delivery timing,Feature Request,disappointment,informal,No,Low,delivery team,Yes
+عمل تخفيضات,ar,,Positive,No,Yes,User suggests offering discounts.,Feature Request,satisfaction,informal,No,Low,management,Yes
+Onest,fr,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+I am glad,cy,,Positive,No,No,None,None,joy,grateful,No,Low,None,No
+Bad service,en,,Negative,No,No,None,None,disappointment,disappointed,No,Medium,None,Yes
+كثرت العروض,ar,,Negative,No,Yes,Reduce the number of offers,Complaint,frustration,informal,No,Low,management,Yes
+Newly bought phone got corrupted,en,,Negative,No,No,None,None,disappointment,disappointed,Yes,High,technical support,Yes
+عمل عروض افضل بشكل مستمر,ar,,Neutral,No,Yes,User suggests continuously making better offers.,Operational Improvement,disappointment,polite,No,Low,sales,Yes
+"طلبت زياره صيانه، اغلق الطلب بدون زياره ولا حتي تواصل و رفعت شكري ولا حيات لمن تنادي",ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,customer service,Yes
+Good,so,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+تدريب موظفي خدمة العملاء خاصة البنات لان اسلوبهم غير احترافي في التعامل مع الزبائن وحل مشكلاتهم وعدم احترامهم لزملائهم الشباب في المعرض حيث يكون الشاب معاه زبون وهي تتدخل بصورة غير جيدة واسلوب غير لا ئق تظهر الموظف والزبون لا يفهمون شي,ar,,Negative,No,Yes,"Train customer service staff, especially female employees, due to unprofessionalism in dealing with customers and disrespect towards male colleagues.",Operational Improvement,frustration,frustrated,Yes,High,customer service,Yes
+More discounts for loyal customers.,en,,Positive,No,Yes,Customer suggests providing more discounts for loyal customers.,Feature Request,satisfaction,polite,No,Low,management,Yes
+حل مشكلة التكدس والانتظار الطويل عند دفع قيمة المنتجات والفوضى المصاحبة لذلك,ar,,Negative,No,Yes,"Solve crowding, long waits, and chaos at product payment.",Operational Improvement,frustration,frustrated,Yes,High,management,Yes
+Tell customers exactly about products,en,,Neutral,No,Yes,Provide precise product information,Operational Improvement,confusion,informal,No,Medium,None,Yes
+خفض اسعار المنتجات,ar,,Negative,No,Yes,Request to lower product prices.,Operational Improvement,disappointment,informal,No,Medium,management,Yes
+"اكسترا منصتي الدائمة في شراء الاجهزة الالكترونية، شكرا للأخ أحمد هاشم على طيب تعامله وبشاشة وجهه",ar,,Positive,No,No,None,None,"['gratitude', 'satisfaction']","['grateful', 'polite']",No,Low,customer service,No
+شكراً لكم,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+كل شي رائع,ar,,Positive,No,No,None,None,joy,enthusiastic,No,Low,None,No
+تخفيض سعر الزيارة .. ١٠٠ ريال معقول,ar,,Negative,No,Yes,Reduce the visit price to 100 riyals,Complaint,disappointment,informal,No,Medium,management,Yes
+الخدمه للاسف سيئه ما احد يرد علي جوال خدمه العملاء وتنتظر بالساعات وما احد يرد,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,customer service,Yes
+لي فتره اطلب صيانه ومافيه استجابه,fa,,Negative,No,Yes,User requests a response/action regarding their pending maintenance request.,Complaint,frustration,frustrated,Yes,High,customer service,Yes
+سرعة الرد حلوه,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+لاتوجد اي ملاحات,ar,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+Extra,ca,,Neutral,No,No,None,None,confusion,informal,No,Low,None,No
+شكرا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+ممتاز,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+لا شي,ar,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+شكرا لكم,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+تم شراء جهاز واليوم الثاني تم استبداله ونقص من سعره 1500 ريال حتى ماكمل 17 ساعة . الشي الاخر لايوجد رد على الاتصال,ar,,Negative,No,No,None,None,"['frustration', 'disappointment']","['frustrated', 'disappointed']",Yes,High,customer service,Yes
+Charge on replacement,en,,Negative,No,No,None,None,disappointment,disappointed,Yes,High,billing,Yes
+اقترح خدمات تقسيط اكتر,ar,,Neutral,No,Yes,More installment services,Feature Request,satisfaction,polite,No,Low,management,Yes
+Faris,de,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+More products,en,,Neutral,No,Yes,User suggests adding more products.,Feature Request,disappointment,informal,No,Medium,management,Yes
+شكرا لكم,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+الدعم الفني عبر الهاتف يكون متواجد حتى نهاية الاسبوع,ar,,Neutral,No,Yes,Extend phone technical support availability until the end of the week.,Operational Improvement,disappointment,polite,No,Medium,technical support,Yes
+معقد جداً,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,None,Yes
+الرجاء التوضيح قبل التوصيل في حال شامل التركيب او توصيل فقط,ar,,Neutral,No,Yes,Clarify if installation is included before delivery.,Operational Improvement,confusion,polite,No,Low,delivery team,Yes
+معكم الالتزام بالموعد ممتاز لانه عامل مهم لرضى العميل في الشركة,ar,,Positive,No,No,None,None,satisfaction,polite,No,High,delivery team,No
+Thank you for your service,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+شكرا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+اوصي بأن التعامل يكون بأحترافيه مع العملاء,ar,,Positive,No,Yes,Improve professional interaction with customers.,Operational Improvement,disappointment,polite,No,Medium,customer service,Yes
+ناقل لايقومون بالتوصيل يجبرونك على استلام الطلب من الموقع الذي يقف فيه المندوب,ar,,,,,,,,,,,,
+"‏توظيف فنيين تركيبات محترفين، وعدم التعامل مع طرف ثالث لانه يسعى بالدرجة الأولى إلى إضافة أعمال غير مطلوبة فعليا",ar,,Negative,No,Yes,User suggests hiring professional installation technicians directly and avoiding third-party contractors due to their practice of adding unnecessary work.,Operational Improvement,frustration,frustrated,Yes,High,management,Yes
+nothing,en,,Neutral,No,No,None,None,confusion,informal,No,Low,None,No
+Nothing else I was satusfied,en,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+مصارحة العميل وإعطاء الصورة واضحة وليس فرش الورد والالتزام بما تم الاتفاق عليه,ar,,Negative,No,Yes,Be transparent with customers and adhere to agreements.,Operational Improvement,"['disappointment', 'frustration']","['frustrated', 'disappointed']",Yes,High,management,Yes
+لا شي,ar,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+إعطاء زبائن اكسترا المميزين بعض المزايا الاضافية,ar,,Positive,No,Yes,Additional benefits for Extra's special customers,Feature Request,satisfaction,polite,No,Low,management,Yes
+العميل على حق دائما حتى يثبت العكس,ar,,Negative,No,No,None,None,disappointment,disappointed,Yes,High,None,Yes
+الاهتمام في مواعيد التوصيل والتركيب,ar,,Negative,No,Yes,Focus on delivery and installation timings.,Operational Improvement,disappointment,polite,No,High,delivery team,Yes
+شكراً لحسن تعاملكم ولطافتكم ♥️♥️,ar,♥♥,Positive,No,No,None,None,gratitude,grateful,No,Low,customer service,No
+الموظفين من جنسية عربية  كثيرين الكلام يعتقدون ان هذا تسويق,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,management,Yes
+زيادة الخصومات و زيادة اعداد الكاشيرات,ar,,Neutral,No,Yes,Customer suggests increasing discounts and the number of cashiers.,Operational Improvement,None,informal,No,Low,management,Yes
+عروض,ar,,Neutral,No,Yes,Inquiry about available offers.,Other,confusion,informal,No,Low,sales,Yes
+كل شي تمام👌🏼,ar,👌🏼,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+عمل سحب عشوائي على الفواتير كل فتره معينة,ar,,Positive,No,Yes,Implement random draws on invoices periodically,Feature Request,satisfaction,polite,No,Low,management,Yes
+More discount,it,,Neutral,No,Yes,User is requesting more discount.,Feature Request,None,informal,No,Low,sales,Yes
+Reduce the price,en,,Negative,No,Yes,Request to reduce the price,Complaint,disappointment,informal,No,High,management,Yes
+الصيانه الفوريه,ar,,Neutral,No,Yes,Immediate maintenance,Operational Improvement,worry,urgent,Yes,Medium,technical support,Yes
+"I would like to win a valuable prize even once, because I have been an old customer since the opening of Extra branches in Riyadh",en,,Positive,No,Yes,"User would like to win a valuable prize as a loyal, long-time customer.",Feature Request,satisfaction,polite,No,Low,management,Yes
+التسوق عبر المركز خدمة ممتازه وانجاز سريع,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+1- No variety in the products 2- very slow cashier experience,en,,Negative,No,Yes,Customer suggests improving product variety and speeding up the cashier experience.,Operational Improvement,frustration,frustrated,Yes,High,management,Yes
+staff need to be more aware with what is inside the store,en,,Negative,No,Yes,Staff should have better knowledge of store inventory/products.,Operational Improvement,disappointment,informal,No,Medium,management,Yes
+Great help choosing products.,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,sales,No
+الرجاء مراجعة تقييم اداء مشرف التركيبات لسوء تعامله ورفضه للحديث مع العملاء,ar,,Negative,No,Yes,Request to review installation supervisor's performance due to poor behavior and refusal to engage with customers.,Complaint,frustration,frustrated,Yes,High,delivery team,Yes
+ممتاز,ar,,Positive,No,No,None,None,satisfaction,polite,No,High,None,No
+لا يوجد,ar,,Neutral,No,No,None,None,satisfaction,polite,No,Low,None,No
+Provide loyalty program,es,,Positive,No,Yes,User suggests implementing a loyalty program.,Feature Request,satisfaction,polite,No,Low,management,Yes
+لا,ar,,Negative,No,No,None,None,disappointment,disappointed,No,Low,None,Yes
+شكرا لكم جميع الخدمات والموظفين يعملون بشكل جيد,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+توفير عدد كافي من المسوقين,ar,,Negative,No,Yes,Ensure a sufficient number of marketers are provided.,Operational Improvement,None,polite,No,High,management,Yes
+خدمة التوصيل المجاني,ar,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+Very good,af,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+One of technicians they say indoor is having leakage and not good cooling,en,,Negative,No,No,None,None,frustration,frustrated,Yes,High,technical support,Yes
+Good,so,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+Always ask the payment method from Customer,en,,Neutral,No,Yes,Suggests that the payment method should always be asked from the customer.,Operational Improvement,disappointment,polite,Yes,High,customer service,Yes
+kindly support to arrange an erection and connection if possible this week,en,,Neutral,No,Yes,Arrange erection and connection,Operational Improvement,satisfaction,polite,Yes,Low,delivery team,Yes
+"اقترح ان يكون هناك سياسه واضحه عند شراء المنتجات من ناحيه الصيانه والمده المسموحه، لان ماكنت ادري اني استحق صيانه مجانيه لمره واحده الا بالصدفه.. السبب ان هذا الشيء راح يفيد العميل وراح تزيد مبيعاتكم وتعود بالنفع للطرفين",ar,,Positive,No,Yes,"To establish a clear policy for product maintenance and its duration, as customers might miss out on free services and it could affect sales.",Operational Improvement,satisfaction,professional,No,High,management,Yes
+شكرا مهندس ياسر علي التعامل الراقي,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,customer service,No
+المحافظه على الجوده,ar,,Positive,No,Yes,Request to maintain high quality standards.,Operational Improvement,satisfaction,polite,No,Low,None,Yes
+شكرا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+احضار مستلزمات التركيب مثل منظم مدخل المياه و وصلة كهرباء,ar,,Negative,No,Yes,Bring installation supplies like a water inlet regulator and an electrical connector.,Operational Improvement,frustration,informal,No,High,delivery team,Yes
+لم يتم التوصيل تم إجباري لأخذ المنتج من الفرع,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,delivery team,Yes
+لم استلم فاتورة المنتج,ar,,Negative,No,No,None,None,disappointment,disappointed,Yes,High,billing,Yes
+إيجاد عمال توصيل اكثر احترافية وجودة وتعامل جير مع العملاء,ar,,Negative,No,Yes,"Improve professionalism, quality, and customer interaction of delivery workers.",Operational Improvement,disappointment,professional,Yes,High,delivery team,Yes
+سرعة التوصيل شكرا اكسترا وصلني في وقت احتاج انه يوصل بدري متجر معتمد 🫡🫡,ar,🫡🫡,Positive,No,No,None,None,gratitude,grateful,No,Low,delivery team,No
+ان يكون التوصيل والتركيب وفقا للموعد المتفق عليه وان يتم من خلال موظفين اكسترا المحترفين,ar,,Neutral,No,Yes,Ensure delivery and installation are on time and performed by professional staff.,Operational Improvement,worry,professional,No,High,delivery team,Yes
+تعامل فني التركيب في عدم آخذ كرتون المكيف وترك بقاياها تحت الجهاز اي انهم لم ينظفوا المنطقه التي عمل بها بشكل كامل بعد الانتهاء من العمل,ar,,Negative,No,Yes,"Technician did not clean up after AC installation, leaving carton remains under the device.",Operational Improvement,disappointment,disappointed,No,Low,delivery team,Yes
+Customer service,en,,Neutral,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+Very Good  service's,en,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+Informative sales person,fr,,Positive,No,No,None,None,satisfaction,polite,No,Low,sales,No
+It was delivered fast and the shipment was in a really good shape,en,,Positive,No,No,None,None,satisfaction,grateful,No,Low,delivery team,No
+Over all is fine good,en,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+Spicial thanks to Mr. Sadaqat Ail for his kind attitude,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,customer service,No
+لاشي,ar,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+الأسعار...شويه صعبه...عشان اغلب فئات المجتمع تقدر تتسوق في اكيترا,ar,,Negative,No,Yes,Suggests making prices more affordable for a wider range of society to increase accessibility.,Operational Improvement,disappointment,polite,No,High,management,Yes
+خدمة ممتازة بالتوفيق دائما,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+"الاهتمام والتأكد  بتوفير نفس السلع المباعة للعملاء ، وفي حال ان الجهاز لا يعمل بشكل جيد ويحتاج إلى تبديل خلال الفترة المحددة يجد العميل طلبه ولا ينتظر حل مشاكلكم في هذه المواقف شاكر التفهم",ar,,Neutral,No,Yes,Ensure availability of sold goods and prompt replacement of faulty devices without customer waiting for internal issue resolution.,Operational Improvement,frustration,polite,Yes,High,management,Yes
+تجربتي كانت مخيبة للآمال طلبت لابتوب من أحد الموظفين وأخذ الجهاز للكاشير وقفت في الطابور أكثر من 20 دقيقة وفي النهاية اكتشفت إن جهازي موجود في كاشير ثاني وكأن الموضوع يتم بعشوائية الشيء الغريب إن ما كان قدامي إلا شخص واحد وكان عنده مشكلة في الاسترجاع أو الصيانة يعني ما في سبب يخلي الواحد يصف طابور علشان يشتري تجربة بصراحة غير منظمة وتدل على ضعف التنسيق في المتجر,ar,,Negative,No,No,None,Complaint,"['disappointment', 'frustration']","['disappointed', 'frustrated']",Yes,High,management,Yes
+تعليمهم بالاسلوب الافضل للتعامل مع العملاء. كما آمل وضع لوحات الاسم للموظفين بحيث يتم تقييم الموظف علماً ان جميع الموظفين اللي تعاملت معهم غير مهنيين وينقصهم التدريب والمراقبة من قبلكم. لايوجد ما يخشونه في المعرض عليك ان تبحث بنفسك عن الموظف وعند سؤال اي موظف كأن الامر لايعنيه بل يعني الموظف المختص باستفسارك ومثل اللي يقول ابحث عنه ليس لي شأن في ذلك كأن كل موظف يمثل قسمه او الركن الخاص به ولا يقوم حتى باستدعاء زميله او ان يدلك اين يمكن ان يكون. لا جماعية في العمل والجميع يعمل بشكل فردي,ar,,Negative,No,Yes,Train staff on better customer service and implement name tags for staff evaluation.,Operational Improvement,frustration,frustrated,Yes,High,management,Yes
+لا يوجد,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+التقسيط مباشر من إكسترا من غير تابي وتمارا وجعل قسم إدارة التحصيل المتابعة المتأخرين عن السداد التوقع إقبال 1000٪,ar,,Positive,No,Yes,"User suggests Extra offer direct installments without third-party services (Tabby/Tamara) and manage collections internally, predicting 1000% demand.",Feature Request,joy,enthusiastic,No,High,management,Yes
+ممتاز,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+"شكوى في حق الشخص الذي قام بتوصيل الشحنة لي ، لقد كان في غاية الفضاضة وعدم الاحترام وكأنه هو من قام بالشراء لي ودفع من جيبه . اسلوبه وطريقته في الكلام كانت في غاية السوء . فضلا عن أنه قام بإعطائي تعليمات وسياسات للتركيب لم أعلم عنها قبل الدفع في المركز . لذلك انا غير سعيد وفي غاية الزعل مما حصل معي .",ar,,Negative,No,No,None,None,"['disappointment', 'anger', 'resentment']","['frustrated', 'angry']",Yes,High,delivery team,Yes
+اسلوب الموظفييين بالاغراء لكي اقوم بضمان للهاتف سيء ومزعج,ar,,Negative,No,No,None,None,frustration,frustrated,No,Medium,sales,Yes
+شكرا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+Variety of models and attractive offers,en,,Positive,No,No,None,None,satisfaction,grateful,No,Low,None,No
+خفض الاسعار,ar,,Negative,No,Yes,Request to reduce prices,Operational Improvement,disappointment,disappointed,No,High,management,Yes
+"عدم التأخير في الصيانة ،، حيث أن صيانة المنتج لديكم تأخذ مدة طويلة جداً جداً أكثر مما يبنبغي أن تكون",ar,,Negative,No,Yes,Reduce maintenance duration and avoid delays.,Operational Improvement,frustration,frustrated,Yes,High,technical support,Yes
+"Cash counter staff must be polite with Non Saudi customer,  some they very rudely behavior  and no eye contact. I hope you consider this . Thanks,some time staff very roud",en,,Negative,No,Yes,Staff at the cash counter should be polite and maintain eye contact with non-Saudi customers.,Operational Improvement,frustration,disappointed,Yes,High,customer service,Yes
+I like to see motherboards graphic cards rams more electronic parts clouds etc,en,,Positive,No,Yes,"User suggests adding more electronic parts such as motherboards, graphic cards, RAMs, and cloud components.",Feature Request,satisfaction,informal,No,Low,management,Yes
+i satisfied buy any things in extara store,en,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+Nil,sw,,Neutral,No,No,None,None,None,None,No,Low,None,No
+Very good service,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+Thanx,vi,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+رجاءً خفض الحد الأدنى للشراء بالتقسيط إلى 100 ريال بدلاً من 150 ريال,ar,,Neutral,No,Yes,Lower minimum installment purchase limit to 100 SAR from 150 SAR,Feature Request,satisfaction,polite,No,Medium,management,Yes
+"Train a good manners for your security to be in fair treatment of customer either it is Expat or local. Based on our experienced, one of your security had very bad attitude ( Fat Guy Security) in outside parking area. His duty that time April 24, 2025",en,,Negative,No,Yes,Train security personnel for better manners and fair treatment of customers.,Operational Improvement,frustration,frustrated,Yes,High,management,Yes
+Good,so,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+اقترح اصلاح التكييف في معرض اكسترا نجران,ar,,Negative,No,Yes,Fix air conditioning at XTRA Najran showroom,Operational Improvement,disappointment,polite,No,High,management,Yes
+المنتج الي طلبته يختلف عن الي وصل,ar,,Negative,No,No,None,None,"['disappointment', 'frustration']","['disappointed', 'frustrated']",Yes,High,delivery team,Yes
+لا,ar,,Negative,No,No,None,None,disappointment,disappointed,No,Low,None,Yes
+مراجعة أسعار المنتجات,ar,,Neutral,No,Yes,Request to review product pricing.,Operational Improvement,disappointment,polite,No,Medium,management,Yes
+مافي الغاء للطلب!!!!,ar,,Negative,No,Yes,User suggests adding an order cancellation option,Feature Request,frustration,frustrated,Yes,High,technical support,Yes
+يكون فيه شبكه مع اللي يركب المكيفات,ar,,Neutral,No,Yes,Improve coordination with AC installers.,Operational Improvement,frustration,polite,No,Medium,management,Yes
+In time delivery,it,,Positive,No,No,None,None,satisfaction,polite,No,Low,delivery team,No
+التامين على الاجهزة قديكلف التامين مع رسوم الدفع بعد الاستبدال اليى مايقارب قيمه جهاز اخر يتم شراؤه من وكيل اخر,ar,,Negative,No,Yes,"Device insurance and replacement fees are too expensive, almost equivalent to buying a new device from another vendor.",Complaint,disappointment,disappointed,Yes,High,management,Yes
+Satisfied,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+الموظفون سيئين ولا يتم خدمه الزبون بشكل جيد,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,customer service,Yes
+Your staff is excellent,en,,Positive,No,No,None,None,satisfaction,grateful,No,Low,customer service,Yes
+nothing more. thanx,en,,Neutral,No,No,None,None,gratitude,polite,No,Low,None,No
+"جاني الشفاط بدون خدمة التركيب، وما ظهرلي في التطبيق اي خيار لاضافة التركيب (افترضت ان التركيب مشمول مع التوصيل)",ar,,Negative,No,Yes,"User received the product without installation service and the app did not provide an option to add it, suggesting a need for clear installation options or inclusion in the app/process.",Operational Improvement,disappointment,disappointed,Yes,High,customer service,Yes
+الاهتمام بمستودعات التخزين لتجنب مشاكل التخزين السيئ مثل تسريب المياه على الشحنات,ar,,Negative,No,Yes,Improve storage conditions to prevent water leakage on shipments.,Operational Improvement,disappointment,disappointed,Yes,High,delivery team,Yes
+عدم التأخير,ar,,Neutral,No,Yes,Request to avoid delays,Operational Improvement,worry,urgent,Yes,High,delivery team,Yes
+وصلو للقرى القريبة من حائل..,ar,,Neutral,No,Yes,Expand delivery service to villages near Hail.,Feature Request,disappointment,informal,No,Medium,management,Yes
+مشاء الله التوصيل رائع جدا ومنظم وشكرا لكم,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,delivery team,No
+كوبونات تخصم وتوصيل مجاني,ar,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+لا يحتاج اي توصية ....كويسين مره,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+👎👎👎👎,emoji,👎👎👎👎,Negative,No,No,None,None,disappointment,disappointed,Yes,High,None,Yes
+شكراً لكل العاملين في اكسترا وخاصة م/ عرفة وزميلة - الله يعطيكم العافية,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,customer service,No
+مناسب,ar,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+التوصيل في الفترة المسائية بعد الساعه السادسه وعدم اقتصارها في فترة بعد الظهر,ar,,Neutral,No,Yes,"Request to extend delivery hours to include evenings after 6 PM, not just afternoons.",Operational Improvement,disappointment,polite,No,Low,delivery team,Yes
+التنبيه على المناديب لتوصيل الاغراض الى مدخل الشقة وليس تركه امام مدخل العمارة,ar,,Negative,No,Yes,"Deliver items to apartment entrance, not building entrance",Operational Improvement,frustration,frustrated,Yes,High,delivery team,Yes
+Na,vi,,Neutral,No,No,None,None,confusion,informal,No,Low,None,No
+ان يكون التوصيل شامل التركيب للمنتج,ar,,Neutral,No,Yes,Delivery should include product installation.,Operational Improvement,satisfaction,polite,No,Medium,delivery team,Yes
+معكم فني تركيب اسبيلت اسمه عبدالولي مممممممتاز جداً جداً ربي يوفقه ويوسع برزقه,ar,,Positive,No,No,None,None,gratitude,grateful,No,High,delivery team,Yes
+ممتاز جدا,fa,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+Thanks,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+Maintain efficiency & excellence,fr,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+Ibrahim was great,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+Once ask in tahlia branch your representative he was showing attitude with bad way to show air fryer even though I purchased 3 items on 03.May.2025. Its not good way to talk. Any way thanks.,en,,Negative,No,No,None,None,disappointment,disappointed,No,Medium,customer service,Yes
+If there a extra charge service it should be an invoice generate with it,en,,Negative,No,Yes,User suggests that an invoice should be generated for any extra charge service.,Operational Improvement,disappointment,professional,No,High,billing,Yes
+ممتاز,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+من المفترض انتو التتواصلون مع الموردين مو المشتري اليروح يدور على المورد,ar,,Negative,No,Yes,Company should communicate with suppliers instead of the buyer.,Operational Improvement,frustration,frustrated,Yes,High,management,Yes
+عدم النشبه للعميل,ar,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+Best service,fr,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+اشتريت منهم مكيف ومارضو يوصلوه,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,delivery team,Yes
+مواعيد صيانة متأخرة,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,technical support,Yes
+التوصيل في وقت المحدد لكن  العماله تركو المكان غير نظيف ولم يتم تنظيف اوساخهم,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,delivery team,Yes
+No comments. Your customer service is perfect.,en,,Positive,No,No,None,None,satisfaction,grateful,No,Low,customer service,No
+سرعه الاستجابه وسرعه الخدمه في العمل,ar,,Positive,No,No,None,None,satisfaction,grateful,No,Low,None,No
+اقترح عدم ملاحقة الموظفين للعميل... لأنه العميل كذا ما يأخذ راحته ابدا.. الأفضل من يناديك الزبون تعال... أما يلاحقه من مكان حج مكان كأنه مباحث ما يحتاج... ما ناخذ راحتنا,ar,,Negative,No,Yes,"Employees should not follow customers; instead, they should only approach when called upon.",Operational Improvement,frustration,frustrated,Yes,High,management,Yes
+"ترتيب افضل، الاسعار غير واضحة لين انزل راسي",ar,,Negative,No,Yes,Improve organization and ensure prices are clearly visible.,Operational Improvement,frustration,frustrated,Yes,High,None,Yes
+يعطيكوا العافيه,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+الاستمرار نحو الافضل,ar,,Positive,No,Yes,Continue to improve/strive for betterment.,Other,satisfaction,polite,No,Low,None,No
+ترقية الموظف احمد طه,ar,,Positive,No,Yes,Promote employee Ahmed Taha,Other,satisfaction,polite,No,Low,management,Yes
+جوائز,ur,,Positive,No,No,None,None,joy,grateful,No,Low,None,No
+الالتزام بمواعيد التسليم,ar,,Negative,No,Yes,Improve adherence to delivery schedules.,Operational Improvement,frustration,frustrated,Yes,High,delivery team,Yes
+If you have issue in your cards..don't offer to customers and if you offer and customer bought..you should gave customer a gift or something,en,,Negative,No,Yes,"Stop offering products (cards) if there are internal issues, and if an offer is made and purchased, provide the customer with compensation (e.g., a gift).",Operational Improvement,"['frustration', 'disappointment']",['frustrated'],Yes,High,customer service,Yes
+Thank you,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+Good support,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+فتح معرض في أبوعريش ليتسنى لنا زيارته عن قرب,ar,,Positive,No,Yes,Open a showroom in Abu Arish for easier access.,Feature Request,satisfaction,polite,No,Low,management,Yes
+Have more specialised employees in each section,en,,Negative,No,Yes,More specialized employees needed in each section.,Operational Improvement,None,informal,No,Medium,management,Yes
+Increase the number of sales person with English language.,en,,Negative,No,Yes,Increase the number of sales persons who speak English.,Operational Improvement,frustration,polite,No,High,sales,Yes
+زياده عدد الكاونترات احيانا يكون واحد فقط خصوصا الجمعه بليل وناس ربشه وضغط احد المرات واحد من العملاء عصب وترك طلبيته وطلع من معرض لهذا السبب امامي رايت هذا الموقف لان الكاونتر واحد وصار تاخير كبير جدا احدهم كان معه مشكله ارجاع سلعه,ar,,Negative,No,Yes,"Increase the number of service counters, especially on Friday nights, to reduce wait times and prevent customers from leaving.",Operational Improvement,frustration,frustrated,Yes,High,management,Yes
+Mobile,tr,,Neutral,No,No,None,None,confusion,informal,No,Low,None,No
+لا يوجد,ar,,Neutral,No,No,None,None,satisfaction,polite,No,Low,None,No
+S,de,,Neutral,No,No,None,None,confusion,informal,No,Low,None,No
+اسوء توصيل واسوء خدمة عملاء في المركز واسوء نظام للفواتير,ar,,Negative,No,No,None,None,anger,angry,Yes,High,management,Yes
+ان نقدر نسوي طلبية للاشياء الي ما موجوده حتى لو كان براند غير معروف و توفروه لنا كعملاء,ar,,Positive,No,Yes,"Allow customers to order unavailable items, including those from unknown brands, for company procurement.",Feature Request,satisfaction,polite,No,Medium,management,Yes
+لاتملوا ولاتضغطوا  على العميل مايختاره لتحقيق ماآرب اخرى .,ar,,Negative,No,Yes,Customers should not be pressured or manipulated away from their choices for the company's benefit.,Operational Improvement,frustration,frustrated,Yes,High,management,Yes
+شكر موجه للموظف ريان على فن التعامل وامتصاص الغضب وحل المشكله,ar,,Positive,No,No,None,None,gratitude,grateful,No,High,customer service,No
+ليسا عندي اقتراح,ar,,Neutral,No,No,None,None,satisfaction,polite,No,Low,None,No
+عند شراء بطاقه جود لازم تتاكد من وجود المنتج لان المسوق داخل المعرض قال لي المنتج متوفر وعند شرائي لبطاقة جود الذهبيه والدفع اتضح ان المنتج غير متوفر و لا لا أستطيع إرجاع بطاقه جود الذهبيه,ar,,Negative,No,Yes,"Ensure product availability is confirmed before selling Jawda cards, especially since the card cannot be returned.",Operational Improvement,"['disappointment', 'frustration']","['disappointed', 'frustrated']",Yes,High,sales,Yes
+شكرا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+Good,so,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+تجاوب سريع,ur,,Positive,No,No,None,None,satisfaction,polite,No,Medium,customer service,No
+Given offer comparison of price with other stores cheaper here,en,,Positive,No,No,None,None,satisfaction,informal,No,Low,sales,No
+موظف الصيانه الي زارني اليوم خدمته ممتازه جدا واسلوبه جدا راقي في العمل,ar,,Positive,No,No,None,None,satisfaction,grateful,No,High,technical support,Yes
+تقليل مدة التوصيل,ar,,Neutral,No,Yes,Reduce delivery time,Operational Improvement,disappointment,polite,No,Medium,delivery team,Yes
+زيادة عرض منتجات الصناعية,ar,,Neutral,No,Yes,Increase display of industrial products,Feature Request,satisfaction,polite,No,Low,management,Yes
+Good service and support,en,,Positive,No,No,None,None,satisfaction,grateful,No,Low,customer service,No
+Everything is excellent,en,,Positive,No,No,None,None,satisfaction,enthusiastic,No,High,None,No
+مدري صراحه,fa,,Neutral,No,No,None,None,confusion,informal,No,Low,None,No
+العمل بمهنية عالية جدا تليق بسمعة اكسترا,ar,,Positive,No,No,None,None,satisfaction,grateful,No,High,None,No
+اسواء خدمه شفتها لغايه الان والموظفين لا يعلمون شيء,ar,,Negative,No,No,None,None,anger,angry,Yes,High,customer service,Yes
+كل شي جميل والضمان ابرائع وترتيب المواعيد للتوصيل او الصيانه وفوق كل هذا ميزة الضمان الممتد,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,customer service,No
+I believe gifts cards are something we get after paying. Why don't we pay with gift card and credit card discount for the same order since you are collecting money on the gift card in advance?,en,,Negative,No,Yes,Allow using gift cards and credit card discounts simultaneously for the same order.,Feature Request,confusion,polite,No,Medium,billing,Yes
+الله يعطيكم العافيه جميعا,ar,,Positive,No,No,None,None,gratitude,polite,No,Low,None,No
+اهداء هدايه,fa,,Neutral,No,No,None,None,None,informal,No,Low,None,No
+"If you can sign the contract with my company and delivery, so that I don't have to go to the store.",en,,Positive,No,Yes,User suggests signing a contract for company delivery to avoid the need for store visits.,Feature Request,disappointment,polite,No,Medium,management,Yes
+It was a very good experience and I could make my choice fast based on the information provided by Ahmed,en,,Positive,No,No,None,None,"['satisfaction', 'gratitude']","['grateful', 'polite']",No,Low,customer service,No
+To have more variatie in the colors an type of the product,en,,Neutral,No,Yes,More variety in product colors and types,Feature Request,disappointment,informal,No,Low,management,Yes
+sales man explanation about product wow,en,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,sales,No
+Commitment,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+الاجهزه الاكترونيه,ar,,Neutral,No,No,None,None,None,informal,No,Low,None,No
+مفروض موظف متواجد في موقعه,ar,,,,,,,,,,,,
+خدمة راقية,ar,,Positive,No,No,None,None,joy,grateful,No,Low,None,No
+"I  brought  earphone,  it's verry good with worth it price",en,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+السلام عليكم  مع احترامي لشركة اكسترا المحترمين عندي صيانة لغسالة ومكيف انا طالب الصيانة من حوالي 15 يوم واكثر ولتاريخ اليوم لم يصلني احد ورحت للفرع للمراجعة بقلك الموظف غير موجود مع العلم اكثر الادوات المنزلية عندي من اكسترا وشاكر لكم,ar,,Negative,No,Yes,"Long delay (over 15 days) in scheduled maintenance for washing machine and AC, and difficulty getting support at the branch.",Complaint,"['frustration', 'disappointment']","['polite', 'frustrated', 'disappointed']",Yes,High,technical support,Yes
+More promotions and offers,en,,Neutral,No,Yes,User requests more promotions and offers.,Feature Request,disappointment,informal,No,Low,sales,Yes
+لم يتم توصيل المنتج علما بانه تم الدفع,ar,,Negative,No,Yes,Deliver the paid product,Complaint,frustration,frustrated,Yes,High,delivery team,Yes
+الاستمرار,ar,,Neutral,No,No,None,None,None,informal,No,Low,None,No
+Special offer and big discount.,en,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+إمكانيات الموظفين والموظفات العاملين في فرع مكة 🕋 اكستراء بالعزيزية على مستوى عالي جدا مما يجعل الزوار في اطلاع مميز على جميع المنتجات وأسعارها وطرق شراءئها بكل يسر وسهولة,ar,🕋,Positive,No,No,None,None,satisfaction,grateful,No,Low,customer service,No
+The washing machine delivered is defective. It does nit work,en,,,,,,,,,,,,
+More Offers For More Sale,en,,Positive,No,Yes,Customer suggests more offers to increase sales.,Operational Improvement,satisfaction,informal,No,High,sales,Yes
+"Staff helping nature for customers, there are staffs at extra but no one want to attend them…they approach looking nationality wise🤔",en,🤔,Negative,Yes,Yes,"Staff should attend to all customers equally, without discrimination based on nationality.",Operational Improvement,frustration,frustrated,Yes,High,customer service,Yes
+لا شيء,ar,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+التعامل ممتاز,ar,,Positive,No,No,None,None,satisfaction,polite,No,High,customer service,No
+العروض,ar,,Neutral,No,No,None,None,confusion,informal,No,Low,None,No
+اسعار غير واقعية واجهزة قديمة وصناعة رديئة لاعاد ترسلون ازعجتونا,ar,,Negative,No,Yes,User requests to stop receiving communications due to being annoyed.,Operational Improvement,anger,angry,Yes,High,management,Yes
+يعطيكم العافية,ar,,Positive,No,No,None,None,gratitude,polite,No,Low,None,No
+شكرا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+الموظف ذو اخلاق رفيعة,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+ا,ar,,Neutral,No,No,None,None,confusion,informal,No,Low,None,No
+التسريع بتوفير فقط الغيار فقط,ar,,Negative,No,Yes,Expedite providing spare parts.,Operational Improvement,frustration,urgent,Yes,High,delivery team,Yes
+Nice customer service,ro,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+زر وستجد ما يسرك,ar,,Positive,No,No,None,None,joy,enthusiastic,No,Low,None,No
+🌺,emoji,🌺,Positive,No,No,None,None,joy,informal,No,Low,None,No
+"Thank EXTRA , I thank Amir Al-Harbi for his kind assistance and cooperation.",en,,Positive,No,No,None,None,gratitude,grateful,No,Low,customer service,No
+وقت الانتظار طويل. عملية تسليم الجهاز طويلة و السبب طباعة كثير من المعلومات . الاسخاص رائعين.,ar,,Negative,No,Yes,Reduce waiting time and streamline device delivery process by minimizing information printing.,Operational Improvement,frustration,frustrated,Yes,High,delivery team,Yes
+لم يتم كل المشكلة,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,None,Yes
+الإهتمام بنظافة المنتج من الخارج,ar,,Negative,No,Yes,Customer suggests improving the cleanliness of the product's exterior.,Operational Improvement,disappointment,polite,No,Low,delivery team,Yes
+ماعنده التزام بالوقت...,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,delivery team,Yes
+تعامل الموظف المبيعات وتوجيهه في المنتج,ar,,Neutral,No,No,None,None,satisfaction,professional,No,Low,sales,No
+لا شيء,ar,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+يحتاج دايمن تعملو عروض,ar,,Neutral,No,Yes,User suggests consistently providing offers and promotions.,Feature Request,disappointment,informal,No,Low,sales,Yes
+احد العاملين اخبرني بعدم توفر لون معين من الجوال عند سؤال رجل اخر قال لي اللون المطلوب موجود,ar,,Negative,No,No,None,None,confusion,informal,No,Medium,customer service,Yes
+تفعيل الضمانات,ar,,Neutral,No,Yes,User is requesting activation of guarantees/warranties.,Complaint,disappointment,polite,Yes,High,customer service,Yes
+Because of near by us,en,,Neutral,No,No,None,None,confusion,informal,No,Low,None,No
+الصيانه في المنزل دون نقل المنتج الى مقر الصيانه لان النقل يعرضه للاصابات,ar,,Neutral,No,Yes,Suggests providing maintenance services at the customer's home to prevent product damage during transport.,Operational Improvement,worry,polite,No,High,technical support,Yes
+More offer more purchase,en,,Positive,No,Yes,Increase the number of offers to drive more purchases.,Operational Improvement,satisfaction,informal,No,Low,sales,Yes
+ركبت لزقة حماية وبعد اسبوع بدت تنفك,ar,,Negative,No,No,None,None,disappointment,disappointed,Yes,High,None,Yes
+التواصل من منذوب التوصيل في حالة عدم الرد,ar,,Neutral,No,Yes,Improve communication from delivery representative when customer doesn't answer.,Operational Improvement,confusion,polite,No,Medium,delivery team,Yes
+ينبغي ان يكون وصف السلعة واضحا فيما إذا كانت تحتاج إلى تركيب أم لا.,ar,,Neutral,No,Yes,Product description should clearly state if installation is required.,Operational Improvement,confusion,polite,No,Low,sales,Yes
+Yes,tr,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+الاهتمام بتركيب المكيفات حيث واجهت مشكلة مع الفنيين ويوجد لدي مكيف واحد من ضمن ستة لم تستكمل عملية التركيب حتى وقد مضى عليه سنة تقريباً,ar,,Negative,No,Yes,"Improve attention to AC installation, addressing issues with technicians and one unit remaining incomplete for nearly a year.",Operational Improvement,frustration,frustrated,Yes,High,delivery team,Yes
+طلبت مكنسه ووصلت مكسورة,ar,,Negative,No,No,None,None,disappointment,disappointed,Yes,High,delivery team,Yes
+اقترح ان يكون التوصيل خلال مدة أقل من المعتاد معكم,ar,,Neutral,No,Yes,Reduce delivery time,Operational Improvement,disappointment,polite,No,Medium,delivery team,Yes
+More experience people,ro,,Negative,No,Yes,User suggests employing more experienced staff.,Operational Improvement,disappointment,disappointed,No,High,management,Yes
+Taking tooo much time to clear the issue,en,,Negative,No,No,None,None,frustration,frustrated,Yes,High,None,Yes
+Nice service,ro,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+Better interface,de,,Neutral,No,Yes,Improvement of the user interface,Feature Request,disappointment,polite,No,Medium,technical support,Yes
+The welcoming of your staff. The attation towreds the customer. It's an excellent customer service,en,,Positive,No,No,None,None,"['gratitude', 'satisfaction']","['grateful', 'polite']",No,Low,customer service,No
+كل شي ممتاز,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+المندوب لم يرسل لي قبل وصوله بفترة كافية إنما اتصل فجأة واخبرني انه عند الباب ؟؟؟؟,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,delivery team,Yes
+"Thank  you for Shofi's help from the Seef branch. He has been very helpful, resilient and always available.",en,,Positive,No,No,None,None,gratitude,grateful,No,Low,customer service,Yes
+طريقة الاستقبال عند الذهاب إلى اكسترا قمة في التعامل,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,High,customer service,Yes
+Good service,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+Me Mahmoud,en,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+More discount and offers,en,,Neutral,No,Yes,Request for more discounts and offers.,Feature Request,disappointment,informal,No,Low,sales,Yes
+To take service requests seriously and deliver in time. The laptop was handed over 2 weeks ago and they just informed today that it will take another 2 weeks to order the part needed. Means 4 weeks to replace a single part! Worldwide delivery is now available at short term and duration!,en,,Negative,Yes,Yes,Improve service request handling and delivery times for repairs.,Operational Improvement,frustration,frustrated,Yes,High,technical support,Yes
+give discount,it,,Neutral,No,Yes,Give discount,Other,worry,informal,No,Low,sales,Yes
+اشتريت جوال هونر ويوجد خاصيه ان البطاريه تجلس ٣ايام وهيه لا تجلس ليوم واحد 😞,ar,😞,Negative,No,No,None,None,disappointment,disappointed,Yes,High,technical support,Yes
+اتمنى ان يكون فيه شفافيه اكثر مع الزبون بنسبه للهدايا المقدمه مع الجهاز,ar,,Neutral,No,Yes,More transparency regarding gifts provided with the device.,Operational Improvement,disappointment,polite,No,Low,management,Yes
+Bad communication in counter exist,en,,Negative,No,No,None,None,frustration,frustrated,No,Medium,customer service,Yes
+الشفافية ذهبت لشراء جوال ومعه هدايا بعد الذهاب ل3 فروع لان الجوال غير متوفر في كل الفروع اخبرني الموظف انه يجب ان اختار بين الهدايا وخصم فيزا ساب لايمكن الحصول على ال2 مع انه لايوجد بند في شروط خصم الفيزا ينص على هذا,ar,,Negative,No,Yes,"Customer reports being forced to choose between a promotional gift and a discount, despite no conflicting terms stated in the discount policy. Suggests clarification and consistency in promotional offer terms and their application.",Operational Improvement,disappointment,disappointed,Yes,High,customer service,Yes
+Better service for delivery,da,,Negative,No,Yes,Improve delivery service,Operational Improvement,disappointment,informal,No,Low,delivery team,Yes
+عدم الكذب,ar,,Negative,No,Yes,Customer requests honesty/not to be lied to.,Complaint,anger,angry,Yes,High,None,Yes
+Make it easier to edit or exchange the invoices,en,,Negative,No,Yes,Easier invoice editing/exchange,Operational Improvement,frustration,informal,No,High,billing,Yes
+التحقق الجيد من شكوى العميل,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+Enlargement and reception centers for devices must be located within all branches... and not exceed 5 days.,en,,Neutral,No,Yes,Suggests device service centers should be in all branches and service time should not exceed 5 days.,Operational Improvement,None,professional,Yes,Medium,management,Yes
+During installation the workers have not put the dampening pads under the washing machine,en,,Negative,No,Yes,Put the dampening pads under the washing machine,Complaint,disappointment,disappointed,Yes,High,delivery team,Yes
+العروض لعدم وجود قوه شرائيه,ar,,Negative,No,No,None,None,disappointment,informal,No,Low,None,No
+التواصل عن طريق الاتصال مباشر بالعميل خاصة فى حالة طلب صيانة,ar,,,,,,,,,,,,
+"كمبروسر تلاجتي خرب وتم تغيير الثلاجة علي الضمان ، وتم اخذ ٦٥٠ ريال قبلها لتغيير قطعة في الثلاجة وبعد اكتشاف ان الكمبروسر هو الخربان وعلي الضمان ، مع ذلك لم استرد اموالي المدفوعة",ar,,Negative,No,Yes,User requests a refund of 650 riyals for an unnecessary refrigerator repair that was later covered by warranty.,Complaint,frustration,frustrated,Yes,High,billing,Yes
+Customer service because they are friendly,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+Between break time staff on duty after Zohar shift more vigilant and cooperative,en,,Negative,No,Yes,Staff to be more vigilant and cooperative during break times after Zohar shift.,Operational Improvement,disappointment,polite,No,Medium,management,Yes
+Better English for staff,en,,,,,,,,,,,,
+لاشئ,ar,,,,,,,,,,,,
+شكرا لكم,ar,,,,,,,,,,,,
+مفيش حل المشكله نهائياً,ar,,,,,,,,,,,,
+عدم التجاوب السريع مما قد يدخل المستفيد في دوامة اعادة تقديم الطلب وذلك بسبب التاخير الذي سوف يفعل الرد الالي مره اخرى. فيصعب الامر على العميل لانه يجب عليه تجاوز الالي اولا ثم اعادة صياغة الطلب للموظف مره اخرى.,ar,,Negative,No,Yes,Improve response time and optimize automated reply system to prevent re-submission loop.,Operational Improvement,frustration,frustrated,Yes,High,customer service,Yes
+سرعة التفاعل,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+شكرا جزيلا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+الزياره للعميل في أوقات النوم وآخر الليل بعد منتصفه هل هي مناسبه لإتخاذ قرار الاستبدال كل هذا تعطي شكوك بعدم وجود مصداقيه من قبلكم بالوفاء ولن اتعامل معكم مرة أخرى,ar,,Negative,No,Yes,"Customer complains about inappropriate visit times (during sleep, late at night) for exchange decisions, questioning credibility.",Complaint,disappointment,disappointed,Yes,High,delivery team,Yes
+فريق عمل ممتاز,ar,,,,,,,,,,,,
+The staff must be focus on customer  dealing with good,en,,,,,,,,,,,,
+شكراااااا اكسترا,ar,,Positive,No,No,None,None,gratitude,enthusiastic,No,Low,None,No
+شكرا,ar,,,,,,,,,,,,
+‏أشكركم,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+الحصول على هدية مع المنتج المطلوب هذا يشجع عملية الشارع انا اشتريت تليفون جاي معه كابل الشحن بدون الراس اذا كان معه مثلا راس الشاحن او الحراب او سكرين للشاشه هذا يحمس للشتاء,ar,,Neutral,No,Yes,"Include useful accessories (e.g., charging head, headphones, screen protector) as gifts with purchases to encourage sales.",Feature Request,disappointment,polite,No,Low,sales,Yes
+"لاحظت كثرة موظفين المبيعات، اعتقد أنهم اكثر من الطبيعي، لكن الخدمة ممتازة.",ar,,Positive,No,Yes,Observation regarding an excessive number of sales employees.,Operational Improvement,satisfaction,polite,No,Low,sales,Yes
+وأيضًا خدمة الصيانه السرعه والإلتزام بالوقت وسرعة العمل,ar,,Positive,No,No,None,None,satisfaction,grateful,No,Medium,technical support,No
+تلقيت معاملة جدا سيئة من احد موظفي خدمة العملاء,ar,,Negative,No,No,None,None,anger,angry,Yes,High,customer service,Yes
+Price not different in sale,it,,Negative,No,No,None,None,disappointment,disappointed,No,Medium,sales,Yes
+تزويدنا بالعروض الحصريه,ar,,Positive,No,Yes,User wants to receive exclusive offers.,Feature Request,satisfaction,polite,No,Low,sales,Yes
+توفر جميع منتجات الموقع بالمعرض,ar,,Positive,No,Yes,Availability of all website products at the showroom/exhibition.,Operational Improvement,satisfaction,polite,No,Medium,management,Yes
+خدمه ممتازه,fa,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+Never pick up the phone or  after-sales channels+ i hade extremly bad experince with A/C  spilt installation,en,,Negative,No,No,None,None,"['frustration', 'disappointment']","['frustrated', 'disappointed']",Yes,High,customer service,Yes
+Free delivery,da,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+ممتاز,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+"Time the costumer didnt have time to answer the calls My recommendation for added Full location from the biggining of purchasing process, some",en,,Neutral,No,Yes,Add full location option at the beginning of the purchasing process.,Operational Improvement,frustration,polite,No,Medium,technical support,Yes
+Change some rules like I can't change my items for any brunch they told me it must in same brunch,en,,Negative,No,Yes,Customer wants to change the rule that requires item exchanges to be done at the same branch where the purchase was made.,Operational Improvement,frustration,frustrated,No,Medium,management,Yes
+الموظفين رائعون,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+طاقم التركيب مخادع,ar,,Negative,No,No,None,None,anger,angry,Yes,High,delivery team,Yes
+لاشي كل شي جميل,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+زياده الافراد ف الفرع,ar,,Neutral,No,Yes,Increase staff in the branch,Operational Improvement,frustration,polite,No,High,management,Yes
+تقديم الشكر للطاقم النسائي اكثر من الشباب,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+Mobile number 0591258844 Order number WEB915056743 The product already delivered and accessories missing so I returned to store  It's received by extra And I informed I need the product with all accessories and I am Waiting  When you are sending  Or give me tracking number if u send me Waiting for long time,en,,Negative,No,Yes,User returned a product due to missing accessories and is waiting for the replacement or a tracking number.,Complaint,frustration,frustrated,Yes,High,customer service,Yes
+Goood,so,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+The mobile sold to me wasn't even in mega sale and the staff didn't even mention it. The cashier was extremely crowded with people fighting with each other in queue so I had to buy it.,en,,Negative,No,No,None,None,frustration,frustrated,Yes,High,"['sales', 'management']",Yes
+أنا أحب اكسترا جدااااااا.  لكن للأسف العمال اللي جو يركبون المكيف غير متعاونين وغير احترافيين ما رتبوا بعد ما خلصوا ولا ركبوا ديكور المكيف ولا ثبتوا الريموت,ar,,Negative,No,Yes,"Workers were uncooperative and unprofessional, didn't clean up after AC installation, didn't install AC decor, and didn't fix the remote.",Complaint,"['disappointment', 'frustration']","['disappointed', 'frustrated']",Yes,High,delivery team,Yes
+Just answer customer requests,en,,Negative,No,Yes,Customers' requests should be answered promptly and effectively.,Operational Improvement,frustration,frustrated,Yes,High,customer service,Yes
+Cancel the annoying and pushy salesmen on the sections,en,,Negative,No,Yes,Stop annoying and pushy salesmen activities.,Operational Improvement,frustration,frustrated,Yes,High,sales,Yes
+Than you 😊,en,😊,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+كل شي تمام من كل النواحي,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+ماعندي اي اقتراحات,fa,,Neutral,No,No,None,None,satisfaction,polite,No,Low,None,No
+نشكر الموظفين في اكسترا جميعاً على حُسن الاستقبال وخدمه العميل على افضل وجه.  شكرا لكم جميعاً,ar,,Positive,No,No,None,None,gratitude,grateful,No,Medium,customer service,No
+The sales team is very confident and co operative.,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,sales,No
+Not to sub contract with Egyptians labor  ever🤢,en,🤢,Negative,No,Yes,Avoid subcontracting with Egyptian labor.,Operational Improvement,resentment,angry,Yes,High,management,Yes
+Reaching destination,en,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+Good,so,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+حسنو موظفينكم ما يصير اشتري قلم جديد وبالنهاية ما يشتغل واوديه الصيانة وترجعونه لي نفس ما هو وتكذبون تقولون بدلناه لك,ar,,Negative,No,Yes,"User suggests improving staff honesty and performance, especially regarding product repairs and truthful communication.",Operational Improvement,"['anger', 'frustration']","['angry', 'frustrated', 'disappointed']",Yes,High,customer service,Yes
+موظف الصيانة ذو الخلق العالي عبد الجهني أعطيه تقيم 10 من 10,ar,,Positive,No,No,None,None,satisfaction,grateful,No,Low,delivery team,No
+العمال مرا طيبين ومتفاهمين يعطيهم الف عافيه,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,delivery team,No
+الاهتمام أكثر بخدمات ما بعد البيع,ar,,Negative,No,Yes,Improve attention to after-sales services,Operational Improvement,disappointment,polite,No,Medium,customer service,Yes
+مره متعاونين,fa,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+لاشيء,ar,,Neutral,No,No,None,None,None,informal,No,Low,None,No
+كل شيء تمام,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+تجنب الانتظار لمده 24 ساعه قبل اتخاذ الاجراءات المطلوبه,ar,,Negative,No,Yes,Avoid 24-hour waiting period for actions,Operational Improvement,frustration,frustrated,Yes,High,None,Yes
+More cooperative and friendly behaviour,en,,Positive,No,Yes,User requests more cooperative and friendly behavior from staff.,Operational Improvement,satisfaction,polite,No,Medium,customer service,Yes
+موظفي التسويق ينشغلون عن الزبائن بحوارات جانبيه ويتركون الزبون,ar,,Negative,No,Yes,Marketing staff should prioritize attending to customers over engaging in side conversations.,Operational Improvement,frustration,frustrated,Yes,High,management,Yes
+The prices are exaggerated.,en,,Negative,No,No,None,None,disappointment,disappointed,Yes,High,management,Yes
+Product is believable with attractive packing,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+"تم بيعي منتج مختلف عن الذي استلمته، وعند محاولة ارجاعه تم رفض بسبب استخدامي له مرة واحدة فقط",ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,customer service,Yes
+reliable warranty,en,,Positive,No,No,None,None,satisfaction,informal,No,High,None,No
+الحماية الحرارية سيئة جدا الأفضل وقفوها نوعية سيئة وخامات سيئة,ar,,Negative,No,Yes,User suggests discontinuing the thermal protection product/feature due to its very bad quality and poor materials.,Complaint,frustration,frustrated,Yes,High,management,Yes
+Customer service,en,,Neutral,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+Customer service is in good accomodating employee,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+frebies,de,,Positive,No,No,None,None,joy,informal,No,Low,None,No
+Thanks,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+اوك,ar,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+لا يوجد,ar,,Neutral,No,No,None,None,satisfaction,polite,No,Low,None,No
+Happy,fi,,Positive,No,No,None,None,joy,enthusiastic,No,Low,None,No
+Development and education of air conditioning installation technicians,en,,Neutral,No,Yes,Improve the development and education of air conditioning installation technicians.,Operational Improvement,disappointment,professional,No,High,management,Yes
+Language barrier,de,,Negative,No,No,None,None,confusion,informal,No,High,customer service,Yes
+good,so,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+شكرا لكم,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+The first store I visited near king Abdulaziz  road staff was so rude and racist I believe they were not attending to my queries even though requested many times also they try to avoid customer from other languages. It demoralised customer experience. Their was no crowd in that store and they were so annoyed they Toby even know their system and they were not helping to share details where that stock available because of them I changed my mind to buy from extra then i thought give it chance and went to girnatha store and those guys were do amazing and helped me with all queries in fact it was so crowded but still they went on and answered all my queries patiently and the guy who sold phone he was new to store but so calm guy and guided me through all product related queries and where ever he stucked he requested store manager to help him and explaining and solving my queries. 2 different experience in 2 different store one was bitter and painful and 2nd was super better and satisfying,en,,Positive,No,No,None,None,"['frustration', 'disappointment', 'satisfaction', 'gratitude']","['frustrated', 'disappointed', 'grateful']",No,High,customer service,Yes
+للاسف الصيانه ليس عندهم ليونه وفيه مشاكل كثيره منهم وعندي مشكله معهم بخصوص لاب توب من اكثر من شهر ولم تحل,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,technical support,Yes
+كل شئ ممتاز,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+لايوجد,ar,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+لايوجد,ar,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+لا,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,None,Yes
+تواجد خيارات للتسوق,ar,,Positive,No,Yes,Customer suggests having more shopping options.,Feature Request,satisfaction,polite,No,Low,management,Yes
+مافيه,ar,,Negative,No,No,None,None,disappointment,disappointed,No,Medium,None,Yes
+لم تحل المشكلة الا بعد رفع شكوى لوزارة التجارة لا احترام للمواعيد و لا اهتمام منرفبل موظفين الشكاوى و لازاي التزام من فريق الصيانه... منتهى سوء الخدمه,ar,,Negative,No,No,None,None,"['frustration', 'anger']","['frustrated', 'angry']",Yes,High,"['customer service', 'technical support']",Yes
+خلكم كذا ولا تتغيرون لاني اشوفكم الافضل في السوق لا خدمة ولا صيانه,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+Keep to your word when advising customers when to collect their repaired devices,en,,Negative,No,Yes,Advise customers accurately regarding the collection time of their repaired devices.,Operational Improvement,frustration,frustrated,Yes,High,customer service,Yes
+شي رائع وان شاءالله إلى الامام دوما,ar,,Positive,No,No,None,None,joy,enthusiastic,No,Low,None,No
+رااائعين,ur,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+ان تكون الشروط واضحة واي مبالغ سيتم دفعها سابقاً,ar,,Neutral,No,Yes,"User suggests that terms and conditions, especially regarding advance payments, should be clear.",Operational Improvement,confusion,polite,No,Low,management,Yes
+شكرا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+فريق الصيانه أتى على الوقت وسلم التلفاز في وقت قياسي,ar,,Positive,No,No,None,None,satisfaction,grateful,No,Low,delivery team,No
+تبسيط او وضع ايقونه خاصة لخدمة الصيانه بعد البيع لاني تعبت لحد ما وصلت للصيانه,ar,,Negative,No,Yes,Simplify or add a special icon for after-sales maintenance service to improve accessibility.,Operational Improvement,frustration,frustrated,Yes,High,customer service,Yes
+No,no,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+"بصراحة خدمة إكسترا من أفضل خدمات مابعد البيع،،،،",ar,,Positive,No,No,None,None,satisfaction,grateful,No,Low,None,No
+شكرا للفني,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,technical support,No
+شكراً,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+شكرا لكم,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+Well trained maintenance team needed,en,,Negative,No,Yes,Need for a well-trained maintenance team,Operational Improvement,disappointment,informal,No,High,management,Yes
+شكرا اكسترا من القلب,ar,,,,,,,,,,,,
+‏ممتاز,ar,,Positive,No,No,None,None,satisfaction,grateful,No,Medium,None,No
+"I Request if u can have few English speaking employees, who can explain about products. Thanks",en,,Positive,No,Yes,Provide English-speaking employees to explain products.,Operational Improvement,None,polite,No,Medium,customer service,Yes
+اشكركم جزيلا علي اهتمامكم بالعملاء من جميع الجهات,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+أرجو الاهتمام باصحاب الظروف الخاصه ووضع مرشدين لمساعدهم,ar,,Neutral,No,Yes,User suggests providing guides or assistance for people with special circumstances.,Operational Improvement,worry,polite,No,High,management,Yes
+لا اعلم لماذا يصلح الفريق,ar,,Neutral,No,No,None,None,confusion,informal,No,Medium,None,Yes
+الاهتمام بالزبون وشرح كل تقاصيل المنتج والشروط والأحكام  بخصوص المتج التوصيل والتركيب بواسطة الموظف قبل إتمام عملية الشراء وتحمل مسؤلية القصور في اي مرحلة واطالب بتعويض عن الضرر الذي لحق بي من هذا القبيل,ar,,Negative,No,Yes,"Customer demands compensation for damages and suggests improved customer care, thorough explanation of product details, terms, and conditions by staff before purchase, and accountability for any shortcomings during the process.",Complaint,anger,angry,Yes,High,management,Yes
+شكراً لكم .. التوصيل في وقته المناسب,ar,,Positive,No,No,None,None,"['gratitude', 'satisfaction']","['grateful', 'polite']",No,Low,delivery team,No
+سرعة الاجابه والدقه في التوصيل,ar,,Positive,No,No,None,None,satisfaction,grateful,No,Low,None,No
+Already paid for product but didn't receive item for past 10 days and your staff at Unaizah branch don't give concret answer,en,,Negative,No,Yes,Customer needs to receive the product they paid for and obtain concrete answers from Unaizah branch staff regarding the issue.,Complaint,frustration,frustrated,Yes,High,customer service,Yes
+Variety & competitive prices,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+تعامل الموظفه جدا كويس وراقي,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+يكون فيه قسم خاص لذوي الاحتياجات الخاصه,ar,,Positive,No,Yes,Special section for people with special needs,Feature Request,satisfaction,polite,No,Medium,management,Yes
+لا,ar,,Negative,No,No,None,None,disappointment,disappointed,No,Low,None,Yes
+مدري,fa,,Neutral,No,No,None,None,confusion,informal,No,Low,None,No
+Delivery and installation employees must be prohibited from asking for extra fees that are not included in the service invoice… it's a shame that an employee of extra charges extra for installation services that were already paid for,en,,Negative,No,Yes,Prohibit delivery and installation employees from asking for extra fees not included in the invoice.,Operational Improvement,frustration,frustrated,Yes,High,delivery team,Yes
+الاتصال بوقت مبكر جدا ( 10 صباحا )مع طلبه لموقع المنزل بالاضافة الى توصيله للشحنة الساعة 3:30 عصرا,ar,,Negative,No,Yes,Improve coordination between address confirmation calls and actual delivery times.,Operational Improvement,frustration,frustrated,No,Medium,delivery team,Yes
+can we book a maintenance schedule through online  plateform?,en,,Neutral,No,Yes,Ability to book maintenance schedule through online platform,Feature Request,confusion,polite,No,Low,technical support,Yes
+لا يوجد شيء أوصي به. الخدمه ممتازه,ar,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+Staff behaviour very stupidity on date 16 night 9:30pm  he is cahiser first of all train him how to deal with customers,en,,Negative,No,Yes,Suggests training for cashier on how to deal with customers.,Operational Improvement,anger,angry,Yes,High,management,Yes
+Thanks,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+‏يوجد الكثير من الموظفين في إكسترا من غير نافع,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,management,Yes
+Good best Salesman best price,en,,Positive,No,No,None,None,satisfaction,enthusiastic,No,High,sales,No
+ضمان اكسترا رائع جدا ويستحق ثمنه,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+شرح الموظف للمنتجات مثل السابق,ar,,Neutral,No,No,None,None,satisfaction,informal,No,Low,sales,No
+أقترح ان يكون هناك شرح تفصيلي اكثر لمكونات المنتج عند التسوق عبر الموقع,ar,,Neutral,No,Yes,Request for more detailed explanation of product ingredients when shopping online.,Feature Request,confusion,polite,No,Low,management,Yes
+جودة التركيب فقط,ar,,Negative,No,No,None,None,disappointment,disappointed,No,Medium,delivery team,Yes
+حبذا من يقوم بالتوصيل عنده معلومة ولو بسيطة عن المنتج وليس عامل توصيل (حمال فقط) لا يعرف قيمة المنتج وأهميته والية التعامل معه .,ar,,Negative,No,Yes,"Delivery staff should have basic knowledge about the product they are delivering, including its value and proper handling.",Operational Improvement,disappointment,disappointed,Yes,High,delivery team,Yes
+خدمة التوصيل ممتازه و التركيب ايضاً شكراً جزيلاً,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,delivery team,No
+شكرااا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+Thankful,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+إمكانية تحديد اليوم بنفسي,ar,,Positive,No,Yes,User wants to be able to choose the delivery/service day themselves.,Feature Request,disappointment,polite,No,Low,delivery team,Yes
+لا شي,ar,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+للجوده,ar,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+توصيل الطلب سيئه جدا,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,delivery team,Yes
+Good,so,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+اعتقد الية ان الموظف لا يقوم بالتوصيل حتى يستلم رمز التسليم اليه غير جيدة نامل النظر فيها ودمتم,ar,,Negative,No,Yes,Customer suggests reconsidering/changing the policy that requires the delivery employee to receive a code before delivery.,Operational Improvement,disappointment,polite,No,Medium,delivery team,Yes
+لايوجد,ar,,Neutral,No,No,None,None,confusion,informal,No,Low,None,No
+شكرا لكم,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+مممتاز,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+شغل ممتاز وراقي في التعامل,ar,,Positive,No,No,None,None,satisfaction,grateful,No,Low,customer service,No
+شكرا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+شكرا لاكسترا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+شغل جميل ورائع,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+I did not know who was delivering what u til the courier contacted me. At least do the curtesy of telling your customers which courier will deliver what. Not the date but at least the company name or something…,en,,Negative,No,Yes,Suggests informing customers which courier company will deliver their order.,Operational Improvement,frustration,frustrated,No,Low,delivery team,Yes
+Best service,fr,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+Don't send dirty filthy replacements to your customers,en,,Negative,No,Yes,Stop sending dirty/filthy replacements to customers,Complaint,frustration,frustrated,Yes,High,delivery team,Yes
+شكرا لكم استمروا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+جميع بطاقات فيزا وليست بطاقه واحده,ar,,Neutral,No,No,None,None,confusion,informal,No,Low,None,Yes
+ممتازينا,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+تعامل خدمة العملاء  في المعرض,ar,,Neutral,No,No,None,None,satisfaction,informal,No,Low,customer service,No
+thank you so much,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+"The sales executive tried to push sell another brand product, even though I clearly mentioned which brand I wanted.",en,,Negative,No,No,None,None,frustration,frustrated,No,Medium,sales,Yes
+لا,ar,,Negative,No,No,None,None,disappointment,disappointed,No,Low,None,Yes
+التوصيل الموظفين سيئين غير متعاونين,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,delivery team,Yes
+"اضافة لوحة تفاعلية بعد بوابة الدخول، بحيث تسمح للزبون اخذ نبذة سريعة عن الاشياء الموجودة في المعرض مع الاسعار",ar,,Positive,No,Yes,Add an interactive board after the entrance for quick overview of exhibition items and prices.,Operational Improvement,satisfaction,polite,No,Low,management,Yes
+الكونترول للأجهزة تكون موحدة وليس كل جهاز في كونتر معين عملية الدفع تكون كذا مرة,ar,,Negative,No,Yes,Unify device control system and streamline the multi-step payment process.,Operational Improvement,frustration,frustrated,Yes,High,None,Yes
+شكرا,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+Your card offers are not mentioned properly,en,,Negative,No,Yes,Improve clarity in mentioning card offers,Operational Improvement,disappointment,disappointed,No,Medium,management,Yes
+لا يوجد رد من الرد الالي كل ما اتصل ما احد يرد على مكالاماتي واجلس نص ساعة,ar,,Negative,No,Yes,Improve call response time and reduce waiting period,Operational Improvement,frustration,frustrated,Yes,High,customer service,Yes
+.xbox,so,,Neutral,No,No,None,None,confusion,informal,No,Low,None,No
+الاقتراح يكون للعميل قدره انه يختار وقت التوصيل اذا صباحي او مسائي افضل ما يجي عامل التوصيل و يحط لي الشحنه برا لمده اكثر من ٦ ساعات,ar,,Negative,No,Yes,Customer should be able to choose morning or evening delivery time to prevent packages from being left outside for extended periods.,Operational Improvement,disappointment,disappointed,Yes,High,delivery team,Yes
+اضافة محافظة الحناكية في خيارات التوصيل المنزلي,ar,,Neutral,No,Yes,Request to add Al-Hanakiya Governorate to home delivery options.,Feature Request,satisfaction,polite,No,High,management,Yes
+انتقاء شركات تركيب مكيفات محترمة وليست عمالة مجهولة من موسسات صغيرة تسئ لاكسترا في تركيب المكيفات,ar,,Negative,No,Yes,Customer suggests Extra should select reputable AC installation companies rather than unknown labor from small institutions to improve service quality.,Operational Improvement,frustration,frustrated,Yes,High,delivery team,Yes
+الساىق لم يرضى يوصل الطلب بعد ما أخذ حق المشوار وأنا طالب التوصيل مجاني,ar,,Negative,No,No,None,None,frustration,frustrated,Yes,High,delivery team,Yes
+لابد يكونو فنيين فاهمين,ar,,Negative,No,Yes,Technicians need to be knowledgeable/understanding.,Operational Improvement,disappointment,disappointed,No,High,technical support,Yes
+شكرا للمبييعات,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,sales,No
+Nothing,en,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+Well Done,de,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+Did the work professionally,en,,Positive,No,No,None,None,satisfaction,polite,No,Low,None,No
+فريق الصيانه أروع ناس ونعم فيهم واتمنى تعطونهم مكافأة يستاهلون ما قصرو معي أبدا,ar,,Positive,No,Yes,Give the maintenance team a bonus for their excellent work,Operational Improvement,gratitude,grateful,No,Low,management,Yes
+من افضل ما يكون,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,High,None,No
+لم يحظر فني الصيانه,ar,,Negative,No,No,None,None,disappointment,disappointed,Yes,High,delivery team,Yes
+Thanks,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+لم يكمل العمل وجاء مستعجل وقال بكرة اجيك والى اليوم ماجاني,ar,,Negative,No,No,None,None,disappointment,disappointed,Yes,High,delivery team,Yes
+سرعة الإصلاح,ar,,Negative,No,Yes,Improvement in repair speed,Operational Improvement,frustration,frustrated,Yes,High,technical support,Yes
+اتمنى يكون للعملاء نظام نقاط ويتم استبدالها عن طريكم,ar,,Positive,No,Yes,Customer suggests implementing a loyalty points system that can be redeemed.,Feature Request,satisfaction,polite,No,Low,management,Yes
+الاهتمام اكثر بالعميل بخصوص الاسعار,ar,,Negative,No,Yes,More attention regarding prices,Complaint,disappointment,informal,No,High,sales,Yes
+شكرا استاذ ياسر,fa,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+الاستجابة بطيئة ولم يتم فهم المشكلة ولا حلها,ar,,Negative,No,No,None,None,"['frustration', 'disappointment']","['frustrated', 'disappointed']",Yes,High,customer service,Yes
+Thanks extra,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+لا يوجد,ar,,Neutral,No,No,None,None,satisfaction,polite,No,Low,None,No
+الجهاز جربتة عند الاستلام لا زال عطلان طيب ليش ترسلي رسالة وتقول تعال استلم,ar,,Negative,Yes,No,None,None,anger,sarcastic,Yes,High,technical support,Yes
+من خلال تعاملي مع الشركة وما وجدته من انطباع الناس انكم اسواء شركة في الية الصيانة والتعامل مع العميل فقد عانيت جدا حتى وصلت اليكم للأسف,ar,,Negative,No,No,None,None,anger,angry,Yes,High,technical support,Yes
+لا يوجد,ar,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+لم يتم اصلاح العطل - تم العمل بشكل جزئي ولكن لم يتم الاصلاح / تعامل الفريق  جيد,ar,,Negative,No,No,None,None,disappointment,disappointed,Yes,High,technical support,Yes
+لم يتم تصليح العطل كذالك اود التواصل مع الاداره,ar,,Negative,No,Yes,User wants to communicate with management regarding the unaddressed defect.,Complaint,frustration,frustrated,Yes,High,management,Yes
+"I have bought a laptop with extra insurance coverage but unfortunately I'm leaving saudi in couple of months so I went back to return the insurance only as I won't need it anymore ,I asked the staff and after waiting for almost half an hour , they told me that it has already passed 7 days from preached date which was round counting he added an extra day to make it 8 days and refused to refund my insurance coverage which was very disappointing.",en,,Negative,No,No,None,None,disappointment,disappointed,Yes,High,customer service,Yes
+ممتاز جدا,fa,,Positive,No,No,None,None,satisfaction,enthusiastic,No,High,None,No
+Great maintenance service i had a great experience last time,en,,Positive,No,No,None,None,satisfaction,grateful,No,High,delivery team,No
+الكاشيير يتأخر كثيرا في خدمة الزبائن مساء بشكل مزعج,ar,,Negative,No,Yes,Address cashier slowness during evening hours.,Operational Improvement,frustration,frustrated,Yes,High,management,Yes
+شكرا احمد,ar,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+خفض الاسعار,ar,,Negative,No,Yes,Request to lower prices,Operational Improvement,disappointment,disappointed,Yes,High,management,Yes
+Specislist Sales person should b at their respective product location all times to educate the customer,en,,Negative,No,Yes,Specialist salespersons should always be available at their product locations to educate customers.,Operational Improvement,disappointment,professional,No,High,sales,Yes
+تواجد الموظفين في امكان العرض,ar,,Negative,No,Yes,Employees' presence in display areas.,Operational Improvement,disappointment,disappointed,No,Low,management,Yes
+خدمه ممتازه وشرح وافي,ar,,Positive,No,No,None,None,satisfaction,grateful,No,Low,customer service,No
+Expert technicians needs to be sent out with delivery team to ensure proper installation,en,,Negative,No,Yes,Send expert technicians with delivery team to ensure proper installation.,Operational Improvement,frustration,professional,Yes,High,delivery team,Yes
+العمل على سهولة الموقع وانسيابيته,ar,,Neutral,No,Yes,Improve website ease and fluidity,Operational Improvement,frustration,polite,No,High,technical support,Yes
+You must have professional delivery team has a good communication skills,en,,Negative,No,Yes,Delivery team needs professional communication skills.,Operational Improvement,disappointment,informal,No,High,delivery team,Yes
+Thank you,en,,Positive,No,No,None,None,gratitude,grateful,No,Low,None,No
+توفير كميرات جديده من سوني وجميع اصدراتها ب اسعار ارخص من امازونن,ar,,Neutral,No,Yes,User suggests providing new Sony cameras and their versions at prices cheaper than Amazon.,Feature Request,disappointment,informal,No,Low,management,Yes
+Make your employees know what they are saling,en,,Negative,No,Yes,Employees should be knowledgeable about the products/services they sell.,Operational Improvement,frustration,frustrated,Yes,High,management,Yes
+Nice,ro,,Positive,No,No,None,None,satisfaction,informal,No,Low,None,No
+رفعه كفاءة فريق الصيانه لعملىالصيانه بشكل افضل,ar,,Negative,No,Yes,Improve maintenance team efficiency.,Operational Improvement,disappointment,professional,No,Medium,delivery team,Yes
+توفير ممارات واسعه في المعارض,ar,,Positive,No,Yes,Wider aisles in exhibitions,Operational Improvement,disappointment,polite,No,Medium,management,Yes
+"Clear delivery process, ability to change, answering queries on phone and WhatsApp, storing my purchase history to review with clear details",en,,Positive,No,No,None,None,satisfaction,polite,No,High,customer service,No
+الا اتعامل معكم مرة اخرى,ar,,Negative,No,No,None,None,anger,angry,Yes,High,None,Yes
+اقترح ان يكون هناك استلام لجميع المنتجات من المعرض مباشره,ar,,Neutral,No,Yes,Allow direct pickup of all products from the showroom.,Operational Improvement,disappointment,polite,No,Low,management,Yes
+ممتاز,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+عروض ممتازه وحقيقية,ar,,Positive,No,No,None,None,satisfaction,enthusiastic,No,Low,None,No
+زياده في اقساط تابي وتمارا عشان سهوله للعميل,ar,,Positive,No,Yes,Suggests increasing Tabby and Tamara installment options for customer convenience.,Feature Request,satisfaction,informal,No,Medium,billing,Yes
+توفير عروض ووسائل دفع ميسره وبالتقصيد,ar,,Positive,No,Yes,"Request for offers, easy payment methods, and installment options.",Feature Request,satisfaction,polite,No,Medium,management,Yes
+انخفاض الأسعار او وجود عروض مستمره,ar,,Neutral,No,Yes,User suggests lower prices or ongoing promotions.,Operational Improvement,disappointment,informal,No,Low,sales,Yes
+A more attentive sales person will be nice,en,,Negative,No,Yes,Improve sales person attentiveness,Operational Improvement,disappointment,polite,No,Medium,sales,Yes
+No response after sales . Still WiFi dies not connect to my phone,en,,Negative,No,No,None,None,"['frustration', 'disappointment']","['frustrated', 'disappointed']",Yes,High,technical support,Yes
+Very good staff,af,,Positive,No,No,None,None,satisfaction,polite,No,Low,customer service,No
+ان يكون طلب الصيانة اسهل,ar,,Negative,No,Yes,User suggests making the maintenance request process easier.,Operational Improvement,disappointment,polite,No,Medium,management,Yes
+لا شئ,ar,,Neutral,No,No,None,None,satisfaction,informal,No,Low,None,No
+If you but call center 24 hours,en,,Negative,No,Yes,Call center should operate 24 hours,Operational Improvement,frustration,frustrated,No,High,customer service,Yes
+كل شي توب ومعامله محترمه جدا,ar,,Positive,No,No,None,None,satisfaction,grateful,No,Low,None,No
