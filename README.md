@@ -116,18 +116,7 @@ This project uses Hugging Face's BERT multilingual sentiment model. The model wa
 
 ---
 
-# Contributing
 
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bugfix.
-
-3. Submit a pull request describing your changes.
-
-
----
 
 ---
 
@@ -191,3 +180,18 @@ The notebook GeminiVsHF-NLBBert.ipynb directly compares both approaches side-by-
 </p>
 
 This comparison allows users to decide whether to prioritize efficiency & reproducibility (HF) or context-rich analysis (Gemini) depending on their business needs.
+
+---
+
+# Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bugfix.
+
+3. Submit a pull request describing your changes.
+
+
+---
