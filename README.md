@@ -170,6 +170,7 @@ This notebook requires Google Gemini API keys. Add them to a .env file in the fo
 
 - Enhanced dashboards possible by combining Hugging Face’s statistical reliability with Gemini’s contextual depth.
 
+---
 
 # Gemini vs Hugging Face Comparison
 
