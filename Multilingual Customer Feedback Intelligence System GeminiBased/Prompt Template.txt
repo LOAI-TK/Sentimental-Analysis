@@ -1,0 +1,43 @@
+# === Prompt Template ===
+PROMPT_TEMPLATE = {
+    "analysis_instructions": {
+        "required_fields": {
+            "final_sentiment": ["Positive", "Neutral", "Negative"],
+            "sarcasm": ["Yes", "No"],
+            "suggestion": ["Yes", "No"],
+            "suggestion_text": ["Brief summary of the user's suggestion (if any)", "None"],
+            "suggestion_type": ["Complaint", "Feature Request", "Operational Improvement", "Other", "None"],
+            "emotion": [
+                "joy", "gratitude", "satisfaction", "confusion", "frustration",
+                "disappointment", "worry", "anger", "resentment"
+            ],
+            "tone": [
+                "enthusiastic", "grateful", "polite", "professional",
+                "informal", "urgent", "frustrated", "disappointed", "angry", "sarcastic"
+            ],
+            "urgency_flag": ["Yes", "No"],
+            "impact_level": ["Low", "Medium", "High"],
+            "responsible_party": [
+                "delivery team", "customer service", "billing",
+                "technical support", "management", "sales", "None"
+            ],
+            "action_flag": ["Yes", "No"]
+        },
+        "guidelines": {
+            "1": "Focus only on the customer's feedback and implied meaning.",
+            "2": "Ignore greetings, emojis, or irrelevant text.",
+            "3": "Identify emotional and tonal cues from wording, even if subtle.",
+            "4": "Label 'suggestion' as Yes only if the user is proposing an improvement or asking for something.",
+            "5": "Use 'suggestion_type' to clarify the nature of the suggestion.",
+            "6": "Only assign 'sarcasm' if there are clear indicators like irony, mocking, or conflicting tone and sentiment.",
+            "7": "Set 'urgency_flag' to 'Yes' if the customer expresses urgency using time-sensitive language in English or Arabic (e.g., 'immediately', 'as soon as possible', 'now', 'urgent', 'delay', 'still not resolved', OR Arabic phrases like 'حالاً', 'فوراً', 'بسرعة', 'أنتظر', 'لا يزال لم يتم', 'تأخير'). Also set to 'Yes' if the tone is angry, frustrated, or disappointed AND the impact level is 'High'. Otherwise, set to 'No'."
+,
+            "8": "Set 'impact_level' to High if the issue seriously affects the user's experience or outcome.",
+            "9": "Mark 'action_flag' as Yes if the feedback requires a response, escalation, or operational fix.",
+            "10": "If no party is clearly responsible, set 'responsible_party' to 'None'.",
+            "11": "Ensure 'suggestion_text' is concise and not a full copy of the original input."
+        }
+    },
+    "task": "Based on the customer review below, extract all required fields according to the instructions above.",
+    "customer_review": ""
+}
